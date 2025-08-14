@@ -14,7 +14,7 @@ tecnologia para manipulação de objetos. Após a conclusão das atividades, foi
 Física - 2023. A cópia do trabalho submetido pode ser obtida ao visitar a página (http://www.fap.if.usp.br/~zwinglio/) onde detalhamos nossos esforcos. Além disso, foi desenvolvida uma página de divulgação, apresentando a proposta do levitador e uma descrição abrangente dos experimentos realizados. Para acessas essa página e obter informações mais detalhadas, é possível através desse site (http://portal.if.usp.br/explev/index)
 
 ## Tecnologias e Ferramentas
-Python, numpy, Mataplotlib, Google Colab, Latex, scipy, Tracker, Google Sites
+Python, numpy, Mataplotlib, Google Colab, Latex, scipy, Tracker, Google Sites, GitHub
 ## Relatórios e Pôsteres
 Este projeto foi desenvolvido como parte de uma Iniciação Científica na USP, sob a orientação do professor Zwinglio de Oliveira Guimarães Filho
 
