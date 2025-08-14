@@ -19,7 +19,7 @@ Python, numpy, Mataplotlib, Google Colab, Latex, scipy, Tracker, Google Sites
 Este projeto foi desenvolvido como parte de uma Iniciação Científica na USP, sob a orientação do professor Zwinglio de Oliveira Guimarães Filho
 
 **Relatórios + Sites**
-* [Relatório Final](caminho/para/o/relatorio_final.pdf)
+* [Relatório Final] (documentos/Relatorio_Final_IC.pdf)
 * Site : http://portal.if.usp.br/explev/index
 **Trabalhos:**
 * XXV Simppósio Nacional de Ensino de Física (2023) : http://www.fap.if.usp.br/~zwinglio/
