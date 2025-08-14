@@ -21,6 +21,7 @@ Este projeto foi desenvolvido como parte de uma Iniciação Científica na USP, 
 **Relatórios + Sites**
 * Relatório Final: https://github.com/Raphael1325/IC_Projeto1_USP/blob/13650a70ea8347793d8c1e3197cd604f3adff9e6/documentos/relatorio_da_bolsa_PUB__Raphael_Lima.pdf
 * Site : http://portal.if.usp.br/explev/index
+  
 **Trabalhos:**
 * XXV Simppósio Nacional de Ensino de Física (2023) : http://www.fap.if.usp.br/~zwinglio/
 
