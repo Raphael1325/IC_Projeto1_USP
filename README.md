@@ -1,5 +1,5 @@
-# Título do Projeto
-Experimentos de mecânica clássica com levitadores acústicos
+# Experimentos de mecânica clássica com levitadores acústicos
+
 
 ## Introdução
 A levitação acústica destaca-se como um recurso sólido para o ensino de mecânica e ondulatória na graduação. Este projeto explorou a aplicação da levitação em experimentos de mecânica, abordando oscilações e quedas com resistência do ar. Além disso, enfatizou a programação como uma solução para desafios físicos, como a resolução de equações diferenciais que descrevem o movimento de corpos sob a influência da força acústica e de outras forças. O projeto resultou na coautoria de uma apresentação em congresso nacional de ensino de física, acompanhada por um site de apoio no qual também participei da criação.
